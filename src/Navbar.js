@@ -7,7 +7,7 @@ export default function Navbar() {
                 Movies GG
             </Link>
             <ul>
-                <CustomLink to="/movies">Movies</CustomLink>
+                <CustomLink to="/movies">Moviessssssssssssssssssssss</CustomLink>
                 <CustomLink to="/theaters">Theaters</CustomLink>
                 <CustomLink to="/category">Category</CustomLink>
                 <CustomLink to="/profile">Profile</CustomLink>
